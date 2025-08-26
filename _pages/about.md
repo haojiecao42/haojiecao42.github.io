@@ -12,7 +12,7 @@ I am a PhD student in the School of Natural Resources and Environment (SNRE) at 
 
 ## EDUCATION
 **PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
-University of Florida, USA Advisor: Jiangxiao Qiu
+University of Florida, USA. Advisor: Jiangxiao Qiu
 
 **MS, Cartography and Geographic Information System** (Sep. 2020 - June 2023)  
 Wuhan University, China
