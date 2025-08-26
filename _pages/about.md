@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Haojie Cao website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-HAOJIE CAO
 ======
-Email: [haojiecao@ufl.edu](mailto:haojiecao@ufl.edu)  
-Webpage: [Google Scholar](https://scholar.google.com/citations?user=R2l1w8AAAAAJ)
+Haojie Cao is a PhD student in the School of Natural Resources and Environment (SNRE) at the University of Florida. He received his Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, he is working on his research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence (AI) techniques. 
 
 ## EDUCATION
 **PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
@@ -79,8 +77,7 @@ Landscape Ecology; Ecosystem Services; Conservation Science; Geospatial Artifici
 * Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan) - **2019**
 
 ## RESEARCH MEDIA COVERAGE
-* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the Highlands News-Sun Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](#), [MSN](#), [AOL.com](#), [Phys.org](#), and [BYTESEU](#).  
-    *(Note: You will need to replace the `#` with the actual URLs for each link.)*
+* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the Highlands News-Sun Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
 
 ## VOLUNTEER SERVICES
 **Peer reviewer for:**
