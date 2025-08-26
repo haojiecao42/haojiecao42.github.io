@@ -20,9 +20,6 @@ Haojie Cao is a PhD student in the School of Natural Resources and Environment (
 **BS, Physical Geography and Resources Environment** (Sep. 2016 - June 2020)  
 *China University of Geosciences (Wuhan), China*
 
-## RESEARCH INTERESTS
-Landscape Ecology; Ecosystem Services; Conservation Science; Geospatial Artificial Intelligence
-
 ## RESEARCH & WORKING EXPERIENCES
 **Research Assistant to Prof. Jiangxiao Qiu** (August 2023 - Present)  
 *Landscape Ecology and Sustainability Science Lab of University of Florida*
