@@ -68,7 +68,7 @@ Peng Lab of China University of Geosciences (Wuhan)
 * Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan), **2019**
 
 ## RESEARCH MEDIA COVERAGE
-* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the Highlands News-Sun Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
+* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
 
 ## VOLUNTEER SERVICES
 **Peer reviewer for:**
