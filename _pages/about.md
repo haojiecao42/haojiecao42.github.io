@@ -1,4 +1,17 @@
-Haojie Cao is a PhD student in the School of Natural Resources and Environment (SNRE) at the University of Florida. He received his Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, he is working on his research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence (AI) techniques. 
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+HAOJIE CAO
+======
+Email: [haojiecao@ufl.edu](mailto:haojiecao@ufl.edu)  
+Webpage: [Google Scholar](https://scholar.google.com/citations?user=R2l1w8AAAAAJ)
 
 ## EDUCATION
 **PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
