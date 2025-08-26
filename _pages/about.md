@@ -39,7 +39,7 @@ Wuhan Center of China Geological Survey
 **Research Assistant to Prof. Hongxia Peng** (May 2018 - June 2020)  
 Peng Lab of China University of Geosciences (Wuhan)
 
-## PUBLICATIONS
+## SELECTED PUBLICATIONS
 * **Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J., 2025. Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces. *Ecosystem Services*, 73, p.101740. [paper](https://doi.org/10.1016/j.ecoser.2025.101740)
 * **Cao, H.**, Weng, M., Kang, M. and Su, S., 2024. Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. *Transactions in GIS*, 28(5), pp.1065-1089. [paper](https://doi.org/10.1111/tgis.13175)
 * **Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M., 2024. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. *Applied Geography*, 164, p.103205. [paper](https://doi.org/10.1016/j.apgeog.2024.103205)
