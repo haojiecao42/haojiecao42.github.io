@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the School of Natural Resources and Environment (SNRE) at the University of Florida, advised by Dr. [Jiangxiao Qiu](https://jiangxiaoqiu.weebly.com/). I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence (AI) techniques. 
+I am a PhD student in the School of Natural Resources and Environment at the University of Florida, advised by Dr. [Jiangxiao Qiu](https://jiangxiaoqiu.weebly.com/). I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence techniques. 
 
 ## EDUCATION
 **PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
