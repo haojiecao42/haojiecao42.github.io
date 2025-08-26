@@ -53,24 +53,24 @@ I am a PhD student in the School of Natural Resources and Environment (SNRE) at 
 * Kang, M., **Cao, H.**, Su, S., Weng, M. and Wang, M., 2022. An optimized model for translating natural language to GeoSQL. *Science of Surveying and Mapping*, 47(7), pp.194-200. (In Chinese).
 
 ## CONFERENCE PRESENTATIONS
-* **2025 NSF CyberTraining Project Summer School** | College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
-* **2025 AAG Annual Meeting** | Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)
-* **ACES (A Community on Ecosystem Services) 2024** | Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)
-* **2024 UF SNRE Research Symposium** | Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)
-* **IALE-North America 2024 Annual Meeting** | Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)
+* **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
+* **2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)
+* **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)
+* **2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)
+* **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)
 
 ## HONORS AND AWARDS
-* Travel award by 2025 NSF CyberTraining Project Summer School, ($700) - **2025**
-* AAG Marine and Coastal Specialty Group Student Paper Merit Award, ($250) - **2025**
-* UF SNRE Travel Grants, University of Florida, ($250) - **2024**
-* UF/IFAS CALS Graduate Student Travel Grant, University of Florida, ($250) - **2024**
-* NASA-MSU Professional Enhancement Awards, NASA and Michigan State University ($600) - **2024**
-* CALS Dean’s Graduate Fellowship, University of Florida - **2023**
-* National Scholarship for Postgraduates, Ministry of Education, China, (CNY¥20,000, approx. $2700) - **2022**
-* First-class Academic Scholarship for Postgraduates, Wuhan University, (CNY¥4,000, approx. $550) - **2022**
-* Outstanding Postgraduates Award, Wuhan University - **2022**
-* Outstanding Undergraduates Award, China University of Geosciences (Wuhan) - **2020**
-* Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan) - **2019**
+* Travel award by 2025 NSF CyberTraining Project Summer School, **2025**
+* AAG Marine and Coastal Specialty Group Student Paper Merit Award, **2025**
+* UF SNRE Travel Grants, University of Florida, **2024**
+* UF/IFAS CALS Graduate Student Travel Grant, University of Florida, **2024**
+* NASA-MSU Professional Enhancement Awards, NASA and Michigan State University, **2024**
+* CALS Dean’s Graduate Fellowship, University of Florida, **2023**
+* National Scholarship for Postgraduates, Ministry of Education, China, **2022**
+* First-class Academic Scholarship for Postgraduates, Wuhan University, **2022**
+* Outstanding Postgraduates Award, Wuhan University, **2022**
+* Outstanding Undergraduates Award, China University of Geosciences (Wuhan), **2020**
+* Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan), **2019**
 
 ## RESEARCH MEDIA COVERAGE
 * **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the Highlands News-Sun Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
