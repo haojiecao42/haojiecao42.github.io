@@ -1,49 +1,86 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Haojie Cao is a PhD student in the School of Natural Resources and Environment (SNRE) at the University of Florida. He received his Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, he is working on his research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence (AI) techniques. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## EDUCATION
+**PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
+*University of Florida, USA* Advisor: Jiangxiao Qiu
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**MS, Cartography and Geographic Information System** (Sep. 2020 - June 2023)  
+*Wuhan University, China*
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**BS, Physical Geography and Resources Environment** (Sep. 2016 - June 2020)  
+*China University of Geosciences (Wuhan), China*
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## RESEARCH INTERESTS
+Landscape Ecology; Ecosystem Services; Conservation Science; Geospatial Artificial Intelligence
 
-**Markdown generator**
+## RESEARCH & WORKING EXPERIENCES
+**Research Assistant to Prof. Jiangxiao Qiu** (August 2023 - Present)  
+*Landscape Ecology and Sustainability Science Lab of University of Florida*
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Teaching Assistant to Prof. Ryan Good** (August 2025 - Present)  
+*EVR2001 Introduction to Environmental Science, University of Florida*
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Research Fellow** (August 2025)  
+*NSF CyberTraining Project Summer School, College Station, Texas, USA*
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**Undergraduate Research Mentor to UF ALP Projects** (March 2024 - March 2025)  
+*University of Florida*
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Research Assistant to Prof. Mengjun Kang and Prof. Shiliang Su** (May 2019 - June 2023)  
+*Urbanization Research Laboratory of Wuhan University*
+
+**Data Scientist Intern** (Aug. 2019 - Dec. 2019)  
+*Wuhan Center of China Geological Survey*
+
+**Research Assistant to Prof. Hongxia Peng** (May 2018 - June 2020)  
+*Peng Lab of China University of Geosciences (Wuhan)*
+
+## PUBLICATIONS
+* **Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J., 2025. Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces. *Ecosystem Services*, 73, p.101740.
+* **Cao, H.**, Weng, M., Kang, M. and Su, S., 2024. Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. *Transactions in GIS*, 28(5), pp.1065-1089.
+* **Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M., 2024. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. *Applied Geography*, 164, p.103205.
+* **Cao, H.**, Wang, M., Su, S. and Kang, M., 2022. Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media. *Ecological Indicators*, 137, p.108756.
+* Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T., 2025. Urban greenspaces benefit both human utility and biodiversity. *Urban Forestry & Urban Greening*, p.128791.
+* Zhang, J., Luo, Y., **Cao, H.** and Su, S., 2024. Scrutinizing the cultural ecosystem services of Chinese Classical Gardens: A novel deep learning approach based on online reviews from a multisensory perspective. *Applied Geography*, 172, p.103404.
+* **Cao, H.**, Zhang, S. and Peng, H., 2019. Classification and spatial heterogeneity of catering industry in Wuhan based on network heat. *Journal of Central China Normal University (Natural Sciences)*, 53(4), pp.560-567. (In Chinese).
+* Kang, M., **Cao, H.**, Su, S., Weng, M. and Wang, M., 2022. An optimized model for translating natural language to GeoSQL. *Science of Surveying and Mapping*, 47(7), pp.194-200. (In Chinese).
+
+## CONFERENCE PRESENTATIONS
+* **2025 NSF CyberTraining Project Summer School** | College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
+* **2025 AAG Annual Meeting** | Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)
+* **ACES (A Community on Ecosystem Services) 2024** | Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)
+* **2024 UF SNRE Research Symposium** | Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)
+* **IALE-North America 2024 Annual Meeting** | Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)
+
+## HONORS AND AWARDS
+* Travel award by 2025 NSF CyberTraining Project Summer School, ($700) - **2025**
+* AAG Marine and Coastal Specialty Group Student Paper Merit Award, ($250) - **2025**
+* UF SNRE Travel Grants, University of Florida, ($250) - **2024**
+* UF/IFAS CALS Graduate Student Travel Grant, University of Florida, ($250) - **2024**
+* NASA-MSU Professional Enhancement Awards, NASA and Michigan State University ($600) - **2024**
+* CALS Dean’s Graduate Fellowship, University of Florida - **2023**
+* National Scholarship for Postgraduates, Ministry of Education, China, (CNY¥20,000, approx. $2700) - **2022**
+* First-class Academic Scholarship for Postgraduates, Wuhan University, (CNY¥4,000, approx. $550) - **2022**
+* Outstanding Postgraduates Award, Wuhan University - **2022**
+* Outstanding Undergraduates Award, China University of Geosciences (Wuhan) - **2020**
+* Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan) - **2019**
+
+## RESEARCH MEDIA COVERAGE
+* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the Highlands News-Sun Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](#), [MSN](#), [AOL.com](#), [Phys.org](#), and [BYTESEU](#).  
+    *(Note: You will need to replace the `#` with the actual URLs for each link.)*
+
+## VOLUNTEER SERVICES
+**Peer reviewer for:**
+* *Applied Geography*
+* *Ecosphere*
