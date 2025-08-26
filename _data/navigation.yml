@@ -6,8 +6,8 @@
 
 # main links
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
   # - title: "Publications"
   #   url: /publications/
   # - title: "Talks"
