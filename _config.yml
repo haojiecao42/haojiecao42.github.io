@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "how do we perceive nature?"
+title                    : "Haojie Cao"
 title_separator          : "-"
 name                     : &name "Haojie Cao"
 description              : &description "personal website"
@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_3591.jpg"
-  name             : "Haojie Cao"
+  name             : # "Haojie Cao"
   pronouns         : "he/him/his"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Davie, FL, USA"
