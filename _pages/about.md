@@ -40,19 +40,19 @@ Wuhan Center of China Geological Survey
 Peng Lab of China University of Geosciences (Wuhan)
 
 ## Selected Publications
-* **Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J., 2025. Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces. *Ecosystem Services*, 73, p.101740. [paper](https://doi.org/10.1016/j.ecoser.2025.101740)
-* **Cao, H.**, Weng, M., Kang, M. and Su, S., 2024. Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. *Transactions in GIS*, 28(5), pp.1065-1089. [paper](https://doi.org/10.1111/tgis.13175)
-* **Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M., 2024. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. *Applied Geography*, 164, p.103205. [paper](https://doi.org/10.1016/j.apgeog.2024.103205)
-* **Cao, H.**, Wang, M., Su, S. and Kang, M., 2022. Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media. *Ecological Indicators*, 137, p.108756. [paper](https://doi.org/10.1016/j.ecolind.2022.108756)
-* Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T., 2025. Urban greenspaces benefit both human utility and biodiversity. *Urban Forestry & Urban Greening*, p.128791. [paper](https://doi.org/10.1016/j.ufug.2025.128791)
-* Zhang, J., Luo, Y., **Cao, H.** and Su, S., 2024. Scrutinizing the cultural ecosystem services of Chinese Classical Gardens: A novel deep learning approach based on online reviews from a multisensory perspective. *Applied Geography*, 172, p.103404. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
+**Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J., 2025. Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces. *Ecosystem Services*, 73, p.101740. [paper](https://doi.org/10.1016/j.ecoser.2025.101740)
+**Cao, H.**, Weng, M., Kang, M. and Su, S., 2024. Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. *Transactions in GIS*, 28(5), pp.1065-1089. [paper](https://doi.org/10.1111/tgis.13175)
+**Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M., 2024. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. *Applied Geography*, 164, p.103205. [paper](https://doi.org/10.1016/j.apgeog.2024.103205)
+**Cao, H.**, Wang, M., Su, S. and Kang, M., 2022. Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media. *Ecological Indicators*, 137, p.108756. [paper](https://doi.org/10.1016/j.ecolind.2022.108756)
+Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T., 2025. Urban greenspaces benefit both human utility and biodiversity. *Urban Forestry & Urban Greening*, p.128791. [paper](https://doi.org/10.1016/j.ufug.2025.128791)
+Zhang, J., Luo, Y., **Cao, H.** and Su, S., 2024. Scrutinizing the cultural ecosystem services of Chinese Classical Gardens: A novel deep learning approach based on online reviews from a multisensory perspective. *Applied Geography*, 172, p.103404. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
-* **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
-* **2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)
-* **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)
-* **2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)
-* **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)
+**2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
+**2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)
+**ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)
+**2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)
+**IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)
 
 ## Honors and Awards
 * Travel award by 2025 NSF CyberTraining Project Summer School, 2025
