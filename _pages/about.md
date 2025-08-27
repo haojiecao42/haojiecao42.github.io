@@ -9,7 +9,9 @@ redirect_from:
 ---
 Hi, I am **Haojie Cao**. You can say it like "How-Jyeh Ts-ow".
 
-I am a PhD student in the School of Natural Resources and Environment at the University of Florida, advised by Dr. [Jiangxiao Qiu](https://jiangxiaoqiu.weebly.com/). I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence techniques. 
+I am a PhD student in the School of Natural Resources and Environment at the University of Florida, advised by Dr. [Jiangxiao Qiu](https://jiangxiaoqiu.weebly.com/).
+
+I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence techniques. 
 
 ## Education
 **PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
