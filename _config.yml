@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : **"Haojie Cao"**
+title                    : "**Haojie Cao**"
 title_separator          : "-"
 name                     : &name "Haojie Cao"
 description              : &description "personal website"
