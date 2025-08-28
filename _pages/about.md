@@ -14,11 +14,14 @@ I am a PhD student in the School of Natural Resources and Environment at the Uni
 I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence techniques. 
 
 ## Education
-PhD, Interdisciplinary Ecology, University of Florida, USA
+PhD, Interdisciplinary Ecology<br>
+University of Florida, USA
 
-MS, Cartography and Geographic Information System, Wuhan University, China
+MS, Cartography and Geographic Information System<br>
+Wuhan University, China
 
-BS, Physical Geography and Resources Environment, China University of Geosciences (Wuhan), China
+BS, Physical Geography and Resources Environment<br>
+China University of Geosciences (Wuhan), China
 
 ## Research and Working Experiences
 **Research Assistant** to Prof. Jiangxiao Qiu (August 2023 - Present)<br>
