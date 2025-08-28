@@ -43,22 +43,29 @@ Wuhan Center of China Geological Survey
 Peng Lab of China University of Geosciences (Wuhan)
 
 ## Selected Publications
-<span style="color:blue;">Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces</span>
-
-**Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J.
-
+<span style="color:blue;">Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces</span><br>
+**Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J.<br>
 *Ecosystem Services*, 2025. [paper](https://doi.org/10.1016/j.ecoser.2025.101740)
 
-<span style="color:blue;">Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods</span>
-
-**Cao, H.**, Weng, M., Kang, M. and Su, S.
-
+<span style="color:blue;">Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods</span><br>
+**Cao, H.**, Weng, M., Kang, M. and Su, S.<br>
 *Transactions in GIS*, 2024. [paper](https://doi.org/10.1111/tgis.13175)
 
-* **Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M., 2024. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. *Applied Geography*, 164, p.103205. [paper](https://doi.org/10.1016/j.apgeog.2024.103205)
-* **Cao, H.**, Wang, M., Su, S. and Kang, M., 2022. Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media. *Ecological Indicators*, 137, p.108756. [paper](https://doi.org/10.1016/j.ecolind.2022.108756)
-* Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T., 2025. Urban greenspaces benefit both human utility and biodiversity. *Urban Forestry & Urban Greening*, p.128791. [paper](https://doi.org/10.1016/j.ufug.2025.128791)
-* Zhang, J., Luo, Y., **Cao, H.** and Su, S., 2024. Scrutinizing the cultural ecosystem services of Chinese Classical Gardens: A novel deep learning approach based on online reviews from a multisensory perspective. *Applied Geography*, 172, p.103404. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
+<span style="color:blue;">Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products</span><br>
+**Cao, H.**, Li, Y., Weng, M., Su, S. and Kang, M.<br>
+*Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103205)
+
+<span style="color:blue;">Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media</span><br>
+**Cao, H.**, Wang, M., Su, S. and Kang, M.<br>
+*Ecological Indicators*, 2022. [paper](https://doi.org/10.1016/j.ecolind.2022.108756)
+
+<span style="color:blue;">Urban greenspaces benefit both human utility and biodiversity</span><br>
+Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T.<br>
+*Urban Forestry & Urban Greening*, 2025. [paper](https://doi.org/10.1016/j.ufug.2025.128791)
+
+<span style="color:blue;">Scrutinizing the cultural ecosystem services of Chinese Classical Gardens: A novel deep learning approach based on online reviews from a multisensory perspective</span><br>
+Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
+*Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
 * **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)
@@ -81,7 +88,7 @@ Peng Lab of China University of Geosciences (Wuhan)
 * Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan), 2019
 
 ## Research Media Coverage
-* **2025:** Research Highlight: “Researchers use AI to turn park reviews into science”, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
+* 2025: Research Highlight: “**Researchers use AI to turn park reviews into science**”, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
 
 ## Volunteer Services
 **Peer reviewer for:**
