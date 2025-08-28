@@ -15,7 +15,7 @@ I received my Master's degree in Geographic Information Science with thesis proj
 
 ## Education
 PhD, Interdisciplinary Ecology (Aug. 2023 - Present)<br>
-University of Florida, USA. Advisor: Jiangxiao Qiu
+University of Florida, USA.
 
 MS, Cartography and Geographic Information System (Sep. 2020 - June 2023)<br>
 Wuhan University, China
