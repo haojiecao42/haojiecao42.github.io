@@ -68,11 +68,11 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 *Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
-**2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
-**2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)<br>
-**ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)<br>
-**2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)<br>
-**IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
+* **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
+* **2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)<br>
+* **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)<br>
+* **2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)<br>
+* **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
 
 ## Honors and Awards
 * Travel award by 2025 NSF CyberTraining Project Summer School, 2025
