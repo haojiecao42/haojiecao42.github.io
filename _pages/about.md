@@ -14,32 +14,32 @@ I am a PhD student in the School of Natural Resources and Environment at the Uni
 I received my Master's degree in Geographic Information Science with thesis project focused on coastal landscape perceptions and corresponding sentiments based on social media data. Currently, I am working on the research that aims to provide deeper insights into urban ecosystem services and biodiversity with big data and artificial intelligence techniques. 
 
 ## Education
-**PhD, Interdisciplinary Ecology** (Aug. 2023 - Present)  
+PhD, **Interdisciplinary Ecology** (Aug. 2023 - Present)<br>
 University of Florida, USA. Advisor: Jiangxiao Qiu
 
-**MS, Cartography and Geographic Information System** (Sep. 2020 - June 2023)  
+MS, **Cartography and Geographic Information System** (Sep. 2020 - June 2023)<br>
 Wuhan University, China
 
-**BS, Physical Geography and Resources Environment** (Sep. 2016 - June 2020)  
+BS, **Physical Geography and Resources Environment** (Sep. 2016 - June 2020)<br>
 China University of Geosciences (Wuhan), China
 
 ## Research and Working Experiences
-**Research Assistant** to Prof. Jiangxiao Qiu (August 2023 - Present)  
+**Research Assistant** to Prof. Jiangxiao Qiu (August 2023 - Present)<br>
 Landscape Ecology and Sustainability Science Lab of University of Florida
 
-**Teaching Assistant** to Prof. Ryan Good (August 2025 - Present)  
+**Teaching Assistant** to Prof. Ryan Good (August 2025 - Present)<br>
 *EVR2001 Introduction to Environmental Science*, University of Florida
 
-**Undergraduate Research Mentor** to UF ALP Projects (March 2024 - March 2025)  
+**Undergraduate Research Mentor** to UF ALP Projects (March 2024 - March 2025)<br>
 University of Florida
 
-**Research Assistant** to Prof. Mengjun Kang and Prof. Shiliang Su (May 2019 - June 2023)  
+**Research Assistant** to Prof. Mengjun Kang and Prof. Shiliang Su (May 2019 - June 2023)<br>
 Urbanization Research Laboratory of Wuhan University
 
-**Data Scientist Intern** (Aug. 2019 - Dec. 2019)  
+**Data Scientist Intern** (Aug. 2019 - Dec. 2019)<br>
 Wuhan Center of China Geological Survey
 
-**Research Assistant** to Prof. Hongxia Peng (May 2018 - June 2020)  
+**Research Assistant** to Prof. Hongxia Peng (May 2018 - June 2020)<br>
 Peng Lab of China University of Geosciences (Wuhan)
 
 ## Selected Publications
