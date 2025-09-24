@@ -88,7 +88,11 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 * Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan), 2019
 
 ## Research Media Coverage
-* 2025: Research Highlight: “**Researchers use AI to turn park reviews into science**”, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).  
+* 2025: News Mention: **“Researchers use AI to turn park reviews into science”**, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [AOL.com](https://www.aol.com/news/secret-beloved-florida-parks-ai-123411348.html), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [BYTESEU](https://www.byteseu.com/1311369/).
+
+* 2023: Policy Citation: **“Business case” for further action on international ocean governance**, Publications Office of the European Union, Jan 25, 2023, [link](https://op.europa.eu/en/publication-detail/-/publication/930be1cc-a2ab-11ed-b508-01aa75ed71a1/language-en).
+
+* 2022: News Mention: **“On the Hudson River, a New Model of Environmental Stewardship”**, Resilience, Aug 4, 2022, [link](https://www.resilience.org/stories/2022-08-04/on-the-hudson-river-a-new-model-of-environmental-stewardship/).
 
 ## Volunteer Services
 **Peer reviewer for:**
