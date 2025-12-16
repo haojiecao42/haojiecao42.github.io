@@ -75,6 +75,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 * **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
 
 ## Honors and Awards
+* UF SNRE Travel Grants, University of Florida, 2026
 * Travel award by 2025 NSF CyberTraining Project Summer School, 2025
 * AAG Marine and Coastal Specialty Group Student Paper Merit Award, 2025
 * UF SNRE Travel Grants, University of Florida, 2024
@@ -98,3 +99,4 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 **Peer reviewer for:**
 * *Applied Geography*
 * *Ecosphere*
+* *Scientific Reports*
