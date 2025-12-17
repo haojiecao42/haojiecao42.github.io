@@ -68,6 +68,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 *Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
+* **2025 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 14: “Deciphering human-nature interactions in coastal areas using multimodal artificial intelligence.” (Poster presentation)<br>
 * **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
 * **2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)<br>
 * **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)<br>
@@ -90,6 +91,8 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 
 ## Research Media Coverage
 * 2025: News Mention: **“Researchers use AI to turn park reviews into science”**, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [EurekAlert!](https://www.eurekalert.org/news-releases/1095714), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [Mirage News](https://www.miragenews.com/ai-transforms-park-reviews-into-scientific-data-1520081/).
+
+* 2025: News Mention: **“Analyzing online park reviews to guide city planning decisions”**, Featured in the [UF/IFAS AI Days](https://www.instagram.com/p/DQUzXFeE2U_/) showcase.
 
 * 2023: Policy Citation: **“Business case” for further action on international ocean governance**, Publications Office of the European Union, Jan 25, 2023, [link](https://op.europa.eu/en/publication-detail/-/publication/930be1cc-a2ab-11ed-b508-01aa75ed71a1/language-en).
 
