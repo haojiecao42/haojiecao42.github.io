@@ -96,7 +96,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 
 * 2023: Policy Citation: **“Business case” for further action on international ocean governance**, Publications Office of the European Union, Jan 25, 2023, [link](https://op.europa.eu/en/publication-detail/-/publication/930be1cc-a2ab-11ed-b508-01aa75ed71a1/language-en).
 
-* 2022: News Mention: **“On the Hudson River, a New Model of Environmental Stewardship”**, Resilience, Aug 4, 2022, [link](https://www.resilience.org/stories/2022-08-04/on-the-hudson-river-a-new-model-of-environmental-stewardship/).
+* 2022: News Mention: **“On the Hudson River, a New Model of Environmental Stewardship”**, Undark Magazine, July 14, 2022, [link](https://undark.org/2022/07/14/on-the-hudson-river-a-new-model-of-environmental-stewardship/).
 
 ## Volunteer Services
 **Peer reviewer for:**
