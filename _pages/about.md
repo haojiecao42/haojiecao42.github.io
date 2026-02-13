@@ -76,6 +76,9 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 * **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
 
 ## Honors and Awards
+* 2026 AAG-IGIF Graduate Research Award, AAG, 2026
+* Google Cloud Research Credits Program, 2026
+* IALE-NA Student Travel Award, IALE-NA, 2026
 * UF SNRE Travel Grants, University of Florida, 2026
 * Travel award by 2025 NSF CyberTraining Project Summer School, 2025
 * AAG Marine and Coastal Specialty Group Student Paper Merit Award, 2025
