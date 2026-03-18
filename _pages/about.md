@@ -43,6 +43,10 @@ Wuhan Center of China Geological Survey
 Peng Lab of China University of Geosciences (Wuhan)
 
 ## Selected Publications
+<span style="color:blue;">Unequal access to cultural ecosystem services across urban greenspaces</span><br>
+**Cao, H.**, Zhao, H., Callaghan, C.T., and Qiu, J.<br>
+*Landscape and Urban Planning*, 2026. [paper](https://doi.org/10.1016/j.landurbplan.2026.105635)
+
 <span style="color:blue;">Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces</span><br>
 **Cao, H.**, Miguez, N.G., Mason, B.M., Callaghan, C.T., and Qiu, J.<br>
 *Ecosystem Services*, 2025. [paper](https://doi.org/10.1016/j.ecoser.2025.101740)
