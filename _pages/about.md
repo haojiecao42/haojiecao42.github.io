@@ -72,12 +72,13 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 *Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
-* **2025 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 14: “Deciphering human-nature interactions in coastal areas using multimodal artificial intelligence.” (Poster presentation)<br>
-* **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
-* **2025 AAG Annual Meeting**, Detroit, Michigan. March 28: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)<br>
-* **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)<br>
-* **2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)<br>
-* **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
+* **2026 AAG Annual Meeting**, San Francisco, California. March 17, 2026: “Visitor well-being and human-nature interactions across U.S. National Parks.” (Oral presentation)<br>
+* **2025 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 14, 2025: “Deciphering human-nature interactions in coastal areas using multimodal artificial intelligence.” (Poster presentation)<br>
+* **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15, 2025: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
+* **2025 AAG Annual Meeting**, Detroit, Michigan. March 28, 2025: “Global trends in the changing capacity of coastal habitats to provide cultural ecosystem services.” (Oral presentation)<br>
+* **ACES (A Community on Ecosystem Services) 2024**, Austin, Texas. Dec. 11, 2024: “Spatial patterns and interactions among multiple cultural ecosystem services across urban greenspaces.” (Invited oral presentation)<br>
+* **2024 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 15, 2024: “Accessibility inequity of cultural ecosystem services in urban greenspaces.” (Poster presentation)<br>
+* **IALE-North America 2024 Annual Meeting**, Oklahoma City, Oklahoma. April 2, 2024: “Deciphering cultural ecosystem services in urban green space using social media data and machine learning approaches.” (Poster presentation)<br>
 
 ## Honors and Awards
 * 2026 CESASC Scholarship, CESASC, 2026
@@ -98,7 +99,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 * Second Prize of “Challenge Cup” Competition of Science and Technology, China University of Geosciences (Wuhan), 2019
 
 ## Research Media Coverage
-* 2026: News Mention: **Study uses AI, citizen science to show perceptions of access to Broward County parks**, reported by [UF/IFAS](https://blogs.ifas.ufl.edu/news/2026/04/09/study-uses-ai-citizen-science-to-show-perceptions-of-access-to-broward-county-parks/), April 9, 2026, also reported by [Tampa Free Press](https://www.tampafp.com/florida-study-uses-ai-and-citizen-reviews-to-uncover-browards-hidden-park-disparities/), [AOL]([link](https://www.aol.com/news/florida-study-uses-ai-citizen-195336636.html), and [hoodline](https://hoodline.com/2026/04/ai-study-exposes-broward-s-park-inequality/).
+* 2026: News Mention: **Study uses AI, citizen science to show perceptions of access to Broward County parks**, reported by [UF/IFAS](https://blogs.ifas.ufl.edu/news/2026/04/09/study-uses-ai-citizen-science-to-show-perceptions-of-access-to-broward-county-parks/), April 9, 2026, also reported by [Tampa Free Press](https://www.tampafp.com/florida-study-uses-ai-and-citizen-reviews-to-uncover-browards-hidden-park-disparities/), [AOL](https://www.aol.com/news/florida-study-uses-ai-citizen-195336636.html), and [hoodline](https://hoodline.com/2026/04/ai-study-exposes-broward-s-park-inequality/).
 
 * 2025: News Mention: **“Researchers use AI to turn park reviews into science”**, Special to the [Highlands News-Sun](https://www.midfloridanewspapers.com/highlands_news-sun/news/researchers-use-ai-to-turn-park-reviews-into-science/article_2183a8c4-5fbb-4027-9eee-16ac0b94ebaf.html) Provided by UF/IFAS, Aug 22, 2025. Also reported by [UF News](https://news.ufl.edu/2025/08/park-review-study/), [MSN](https://www.msn.com/en-us/news/technology/researchers-use-ai-to-turn-park-reviews-into-science/ar-AA1L2lAH), [Tampa Free Press](https://www.tampafp.com/the-secret-to-beloved-florida-parks-ai-finds-the-answer-in-your-reviews/), [EurekAlert!](https://www.eurekalert.org/news-releases/1095714), [Phys.org](https://phys.org/news/2025-08-ai-science.html), and [Mirage News](https://www.miragenews.com/ai-transforms-park-reviews-into-scientific-data-1520081/).
 
