@@ -114,3 +114,4 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 * *Applied Geography*
 * *Ecosphere*
 * *Scientific Reports*
+* *Humanities and Social Sciences Communications*
