@@ -27,7 +27,7 @@ China University of Geosciences (Wuhan), China
 **Research Assistant** to Prof. Jiangxiao Qiu (August 2023 - Present)<br>
 Landscape Ecology and Sustainability Science Lab of University of Florida
 
-**Teaching Assistant** to Prof. Ryan Good (August 2025 - Present)<br>
+**Teaching Assistant** to Prof. Ryan Good (August 2025 - April 2026)<br>
 *EVR2001 Introduction to Environmental Science*, University of Florida
 
 **Undergraduate Research Mentor** to UF ALP Projects (March 2024 - March 2025)<br>
@@ -72,6 +72,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 *Applied Geography*, 2024. [paper](https://doi.org/10.1016/j.apgeog.2024.103404)
 
 ## Conference Presentations
+* **IALE-North America 2026 Annual Meeting**, Athens, Georgia. April 27, 2026: “Shared landscapes and divergent experience: Mapping human–nature interactions across U.S. National Parks.” (Oral presentation)<br>
 * **2026 AAG Annual Meeting**, San Francisco, California. March 17, 2026: “Visitor well-being and human-nature interactions across U.S. National Parks.” (Oral presentation)<br>
 * **2025 UF SNRE Research Symposium**, Gainesville, Florida. Oct. 14, 2025: “Deciphering human-nature interactions in coastal areas using multimodal artificial intelligence.” (Poster presentation)<br>
 * **2025 NSF CyberTraining Project Summer School**, College Station, Texas. August 15, 2025: “Quantifying traffic congestion for resilient road network management in Houston, Texas.” (Co-presenter for oral presentation)<br>
