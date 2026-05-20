@@ -106,7 +106,7 @@ Zhang, J., Luo, Y., **Cao, H.** and Su, S.<br>
 
 * 2025: News Mention: **“Analyzing online park reviews to guide city planning decisions”**, Featured in the [UF/IFAS AI Days](https://www.instagram.com/p/DQUzXFeE2U_/) showcase.
 
-* 2023: Policy Citation: **“Business case” for further action on international ocean governance**, Publications Office of the European Union, Jan 25, 2023, [link](https://op.europa.eu/en/publication-detail/-/publication/930be1cc-a2ab-11ed-b508-01aa75ed71a1/language-en).
+* 2023: Policy Citation: **“Business case” for further action on international ocean governance”**, Publications Office of the European Union, Jan 25, 2023, [link](https://op.europa.eu/en/publication-detail/-/publication/930be1cc-a2ab-11ed-b508-01aa75ed71a1/language-en).
 
 * 2022: News Mention: **“On the Hudson River, a New Model of Environmental Stewardship”**, [Undark Magazine](https://undark.org/2022/07/14/on-the-hudson-river-a-new-model-of-environmental-stewardship/), July 14, 2022.
 
