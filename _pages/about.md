@@ -63,6 +63,10 @@ Peng Lab of China University of Geosciences (Wuhan)
 **Cao, H.**, Wang, M., Su, S. and Kang, M.<br>
 *Ecological Indicators*, 2022. [paper](https://doi.org/10.1016/j.ecolind.2022.108756)
 
+<span style="color:blue;">Unlocking public support to scale urban agriculture for sustainable cities</span><br>
+Zhao, H., Wardropper, C. B., **Cao, H.**, Campbell, C. G., Chang, N. B. and Qiu, J.<br>
+*npj Urban Sustainability*, 2026. [paper](https://doi.org/10.1038/s42949-026-00454-6)
+
 <span style="color:blue;">Urban greenspaces benefit both human utility and biodiversity</span><br>
 Miguez, N.G., Mason, B.M., Qiu, J., **Cao, H.** and Callaghan, C.T.<br>
 *Urban Forestry & Urban Greening*, 2025. [paper](https://doi.org/10.1016/j.ufug.2025.128791)
