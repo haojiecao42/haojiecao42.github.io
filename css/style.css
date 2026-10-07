@@ -244,6 +244,10 @@ img { display: block; max-width: 100%; }
 .entry-body { font-size: 13.5px; line-height: 1.75; }
 .entry-title { font-size: 14px; }
 .entry-sub { font-size: 13px; color: var(--text-muted); }
+.entry-sub strong { font-weight: 500; color: var(--text); }
+/* Keep conference and outlet names on one line when they fit */
+.entry-sub strong,
+.entry-sub a { display: inline-block; }
 
 .awards { display: flex; flex-direction: column; gap: 0.3rem; }
 .org { color: var(--text-muted); }
@@ -333,8 +337,10 @@ img { display: block; max-width: 100%; }
   .hero-photo { width: 100px; height: 100px; }
   .research-grid { grid-template-columns: 1fr; }
   .entry { grid-template-columns: 64px minmax(0, 1fr); gap: 0.85rem; }
-  .entries-wide .entry { grid-template-columns: 1fr; gap: 0.15rem; }
-  .entries-wide .entry-key { padding-top: 0; }
+  .entries-wide .entry,
+  .entries-stack .entry { grid-template-columns: 1fr; gap: 0.15rem; }
+  .entries-wide .entry-key,
+  .entries-stack .entry-key { padding-top: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {
