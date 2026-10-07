@@ -52,7 +52,7 @@ img { display: block; max-width: 100%; }
 }
 .skip-link:focus { top: 12px; text-decoration: none; }
 
-/* ── Navigation ─────────────────────────────────── */
+/* Navigation */
 .nav {
   position: sticky;
   top: 0;
@@ -120,7 +120,7 @@ img { display: block; max-width: 100%; }
 .nav-links a:hover,
 .nav-links a.active { color: var(--text); text-decoration: none; }
 
-/* ── Page ────────────────────────────────────────── */
+/* Page */
 .page {
   max-width: var(--max-w);
   margin: 0 auto;
@@ -143,7 +143,7 @@ img { display: block; max-width: 100%; }
   border-bottom: 1px solid var(--border);
 }
 
-/* ── Hero ────────────────────────────────────────── */
+/* Hero */
 .hero {
   display: grid;
   grid-template-columns: 150px minmax(0, 1fr);
@@ -193,7 +193,7 @@ img { display: block; max-width: 100%; }
 }
 .hero-links a:hover { color: var(--text); border-color: var(--text); text-decoration: none; }
 
-/* ── Research cards ──────────────────────────────── */
+/* Research cards */
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -221,7 +221,7 @@ img { display: block; max-width: 100%; }
 .rc-title { font-size: 14px; font-weight: 500; line-height: 1.35; margin-bottom: 0.4rem; }
 .rc-desc { font-size: 12.5px; line-height: 1.65; color: var(--text-muted); }
 
-/* ── Dated entries (education, experience, talks, awards, media) ── */
+/* Dated entries (education, experience, talks, awards, media) */
 .entry {
   display: grid;
   grid-template-columns: 76px minmax(0, 1fr);
@@ -269,7 +269,7 @@ img { display: block; max-width: 100%; }
 .badge-news    { background: #f3e8f9; color: #5a2d8e; }
 .badge-policy  { background: #e2f6f0; color: #0a6b4f; }
 
-/* ── Selected publications ───────────────────────── */
+/* Selected publications */
 .pubs { display: flex; flex-direction: column; gap: 0.85rem; }
 .pubs li { font-size: 13.5px; line-height: 1.65; color: var(--text-muted); }
 .pubs em { font-weight: 600; }
@@ -293,7 +293,7 @@ img { display: block; max-width: 100%; }
 
 .more { margin-top: 1.1rem; font-size: 13px; font-weight: 500; }
 
-/* ── Service ─────────────────────────────────────── */
+/* Service */
 .service-lead { font-size: 13.5px; margin-bottom: 0.7rem; }
 .tags { display: flex; flex-wrap: wrap; gap: 8px; }
 .tags li {
@@ -303,7 +303,7 @@ img { display: block; max-width: 100%; }
   font-size: 12.5px;
 }
 
-/* ── Footer ──────────────────────────────────────── */
+/* Footer */
 .footer {
   max-width: var(--max-w);
   margin: 0 auto;
@@ -321,7 +321,7 @@ img { display: block; max-width: 100%; }
 .footer-brand { font-family: var(--font-serif); font-size: 16px; }
 .footer-copy { font-size: 12px; color: var(--text-faint); }
 
-/* ── Small screens ───────────────────────────────── */
+/* Small screens */
 @media (max-width: 900px) {
   .nav-links { gap: 1.25rem; }
 }
